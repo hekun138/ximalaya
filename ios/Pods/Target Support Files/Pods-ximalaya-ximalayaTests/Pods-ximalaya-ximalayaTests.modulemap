@@ -1,0 +1,6 @@
+module Pods_ximalaya_ximalayaTests {
+  umbrella header "Pods-ximalaya-ximalayaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

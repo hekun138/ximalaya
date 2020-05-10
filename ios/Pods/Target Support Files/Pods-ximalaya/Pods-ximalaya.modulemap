@@ -1,0 +1,6 @@
+module Pods_ximalaya {
+  umbrella header "Pods-ximalaya-umbrella.h"
+
+  export *
+  module * { export * }
+}
