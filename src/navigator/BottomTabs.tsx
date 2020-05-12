@@ -1,6 +1,6 @@
 import React from 'react';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
-import Home from '@/pages/Home';
+import Home from '@/pages/Home/Home';
 import Found from '@/pages/Found';
 import Listen from '@/pages/Listen';
 import Account from '@/pages/Account';
